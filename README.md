@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mlaannq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 yo. 16
+- 🌱 hb. 12 sept
 - 📫 How to reach me: naskovecmilana@gmail.com
 
 <!---
