@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @mlaannq
-- 👀 yo. 16
-- 🌱 hb. 12 sept
-- 📫 How to reach me: naskovecmilana@gmail.com
-
-<!---
-mlaannq/mlaannq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![gifgit (1)](https://github.com/user-attachments/assets/31a09089-dc32-45f4-adb4-c0afa2d26c06)
